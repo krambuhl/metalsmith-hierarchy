@@ -1,0 +1,19 @@
+{
+  "name": "metalsmith-hierarchy",
+  "description": "Metalsmith plugin that adds hierarchy information to file metadata.",
+  "repository": "git://github.com/krambuhl/metalsmith-hierarchy.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Evan Krambuhl <thekrambuhl@gmail.com> (http://stumptownbear.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "dependencies": {
+    "debug": "^2.2.0"
+  },
+  "devDependencies": {
+    "metalsmith": "^2.0.1",
+    "tape": "^4.0.1"
+  }
+}
