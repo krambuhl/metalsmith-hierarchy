@@ -15,5 +15,11 @@
   "devDependencies": {
     "metalsmith": "^2.0.1",
     "tape": "^4.0.1"
-  }
+  },
+  "keywords": [
+    "metalsmith",
+    "metalsmith-plugin",
+    "hierarchy",
+    "breadcrumb"
+  ]
 }
